@@ -2,4 +2,3 @@ myvenv/
 .ipynb_checkpoints/
 
 data
-seq2seq
